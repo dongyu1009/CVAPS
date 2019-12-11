@@ -275,14 +275,6 @@ var uncvaps = function(class_t1, class_names, class_nums, image_t1, image_t2, im
   Export.image.toAsset({ 'image' : cdndvi, 'description': 'cdndvi', 'region' : geometry, 'maxPixels' : 30000000000});
   var change = change2.multiply(change1);
   var unchange = class_t1.multiply(0.0).add(1.0).subtract(change);
-  // Export.image.toAsset({ 'image' : unchange1, 'description': 'unchange1', 'region' : bound, 'maxPixels' : 30000000000});
-  // Export.image.toAsset({ 'image' : change1, 'description': 'change1', 'region' : bound, 'maxPixels' : 30000000000});
-  // Export.image.toAsset({ 'image' : unchange2, 'description': 'unchange2', 'region' : bound, 'maxPixels' : 30000000000});
-  // Export.image.toAsset({ 'image' : change2, 'description': 'change2', 'region' : bound, 'maxPixels' : 30000000000});
-  // Export.image.toAsset({ 'image' : unchange, 'description': 'unchange', 'region' : bound, 'maxPixels' : 30000000000});
-  // Export.image.toAsset({ 'image' : change, 'description': 'change', 'region' : bound, 'maxPixels' : 30000000000});
-  // Map.addLayer(change, {min: -1, max: 1, palette: ['FF0000', '00FF00']});
-  // Map.addLayer(unchange, {min: -1, max: 1, palette: ['FF0000', '00FF00']});
   
   var unchanged = class_t1.multiply(unchange);
   var changed = classified_t2.select(['classification'], ['class']).multiply(change);
