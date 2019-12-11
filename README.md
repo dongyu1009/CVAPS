@@ -41,7 +41,9 @@ Work for Jilin Provincial Department of natural resources
 Vice mayor of People's Government of Qijia Town, Shuangyang District, Changchun City, Jilin Province
 
 中国科学院地理科学与资源研究所硕士研究生
+
 吉林省自然资源厅
+
 吉林省长春市双阳区齐家镇副镇长
 
 Email://dongyu1009@163.com
