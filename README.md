@@ -25,3 +25,25 @@ Hu Y , Dong Y , Batunacun, . An automatic approach for land-change detection and
 Please visit the URL : 
 
 > https://www.sciencedirect.com/science/article/pii/S0924271618302867
+
+=============================
+
+Contect Information:
+
+董昱
+
+Dong Yu,
+
+A Post-Graduate Student From Institute of Geographic Sciences and Natural Resources Research,Chinese Academy of Sciences University of Chinese Academy of Sciences
+
+Work for Jilin Provincial Department of natural resources
+
+Vice mayor of People's Government of Qijia Town, Shuangyang District, Changchun City, Jilin Province
+
+中国科学院地理科学与资源研究所硕士研究生
+吉林省自然资源厅
+吉林省长春市双阳区齐家镇副镇长
+
+Email://dongyu1009@163.com
+
+Tel. +86 15110090085
